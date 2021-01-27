@@ -1,0 +1,15 @@
+.menu_link{
+    text-decoration: none;
+    color: black;
+    text-transform: lowercase;
+}
+.menu_link:hover{
+    
+    border-bottom: 1px solid rgb(82, 179, 218);
+    
+}
+
+.menu_link.ativo{
+    color: #333333;
+    font-weight: bold;
+}
