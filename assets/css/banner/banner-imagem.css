@@ -1,0 +1,8 @@
+.banner__imagem{
+    width: 100%;
+    
+}
+.banner__imagem:hover{
+    transform: scale(1.2);
+    transition: all 2s;
+}
